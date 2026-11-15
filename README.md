@@ -1,6 +1,7 @@
 # Marketing-Analysis-Dashboard
 
 1 About the Project
+
 This project is a Marketing Analysis Dashboard created using
 Microsoft Power BI.
 
@@ -85,5 +86,5 @@ from the original setup. You may need to update the file paths when
 opening it on another computer.
 
 8 Screenshot/Demos :-
-Show what the zdashboard looks like :-
+Show what the zdashboard looks like :- https://github.com/Dollysharma-30/Marketing-Analysis-Dashboard/blob/main/marketing%20analysis%20dashboard.pbit
 Example :- 
