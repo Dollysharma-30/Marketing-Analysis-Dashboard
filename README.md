@@ -10,7 +10,9 @@ easy-to-understand format. It helps users explore sales amount, profit,
 quantity, customer activity, product categories, and payment methods.
 
 2 The report uses two data tables: 
+
 Orders and Details. 
+
 Users can also filter the report by state and order quarter to explore different
 parts of the data.
 
@@ -86,6 +88,6 @@ from the original setup. You may need to update the file paths when
 opening it on another computer.
 
 8 Screenshot/Demos :-
-Show what the zdashboard looks like :- https://github.com/Dollysharma-30/Marketing-Analysis-Dashboard/blob/main/marketing%20analysis%20dashboard.pbit
-Example :- https://github.com/Dollysharma-30/Marketing-Analysis-Dashboard/blob/main/marketing%20analysis.png
+Show what the dashboard looks like :- ![alt text](https://github.com/Dollysharma-30/Marketing-Analysis-Dashboard/blob/main/marketing%20analysis%20dashboard.pbit)
+Example :- ![Dashboard preview](https://github.com/Dollysharma-30/Marketing-Analysis-Dashboard/blob/main/marketing%20analysis.png)
 
