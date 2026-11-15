@@ -87,4 +87,5 @@ opening it on another computer.
 
 8 Screenshot/Demos :-
 Show what the zdashboard looks like :- https://github.com/Dollysharma-30/Marketing-Analysis-Dashboard/blob/main/marketing%20analysis%20dashboard.pbit
-Example :- 
+Example :- https://github.com/Dollysharma-30/Marketing-Analysis-Dashboard/blob/main/marketing%20analysis.png
+
